@@ -8,5 +8,5 @@ Features:
 - delete an item
 
 # Demo
-!(/demo/todo_demo.gif?raw=true "Todo")
+![](/demo/todo_demo.gif?raw=true "Todo")
 
