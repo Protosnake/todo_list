@@ -7,6 +7,6 @@ Features:
 - strike an item when it's done
 - delete an item
 
-#Demo
+# Demo
 ![Alt text](/demo/todo_demo.gif?raw=true "The game itself")
 
