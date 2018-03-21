@@ -8,5 +8,5 @@ Features:
 - delete an item
 
 # Demo
-![Alt text](/demo/todo_demo.gif?raw=true "The game itself")
+!(/demo/todo_demo.gif?raw=true "Todo")
 
